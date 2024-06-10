@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a test automation engineer with experience in the data science and MLOps space.";
+  "I'm a test automation engineer with experience in the data science and MLOps space currently learning more about evaluation for AI applications.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I drive efficiency through automation. By leveraging continual learning, I look for new and better ways to simplify the developer experience.";
+  "I drive efficiency through automation. I look for better ways to simplify the developer experience through creating robust pipelines and processes.";
 
 const About = () => {
   return (

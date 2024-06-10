@@ -48,7 +48,7 @@ const projectList = [
     url: "https://github.com/SanderLeung/portfolio-site",
   },
   {
-    title: "My Resume Site",
+    title: "RAG with PostgreSQL",
     description:
       "Ask quesions using an LLM against a PostgreSQL database utilizing RAG hybrid search.",
     url: "https://github.com/SanderLeung/rag-postgres-llm-python",
