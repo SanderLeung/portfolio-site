@@ -27,7 +27,7 @@ const siteProps = {
   name: "Sander Leung",
   title: "Engineer",
   email: "sander.leung@gmail.com",
-  gitHub: "https://github.com/SanderLeung",
+  gitHub: "SanderLeung",
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/sander-leung-a42b5b12",
   medium: "",
