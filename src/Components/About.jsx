@@ -34,6 +34,7 @@ const skillsList = [
   "Test Automation",
   "CI/CD",
   "DevOps",
+  "Web Scraping",
   "Data Analytics",
   "Model Evaluation",
   "AI/ML",
